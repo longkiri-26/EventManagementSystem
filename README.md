@@ -1,4 +1,4 @@
-Event Management System:
+# Event Management System:
 
 This is a Java-based web application for managing events and attendee registrations. The system provides two main user roles:
 
